@@ -1236,7 +1236,7 @@ h6 { font-size: 16px; }
 /*	08) RYKER VIDEO
 /*---------------------------------------------------*/
 
-.ryker_tm_video{
+/* .ryker_tm_video{
 	width: 100%;
 	height: auto;
 	clear: both;
@@ -1359,7 +1359,7 @@ h6 { font-size: 16px; }
 .ryker_tm_video .ryker_tm_button a:hover{
 	background-color: transparent;
 	color: #fff;
-}
+} */
 
 /*---------------------------------------------------*/
 /*	09) RYKER TESTIMONIALS
@@ -2515,7 +2515,7 @@ body.dark .ryker_tm_settings .cursor li .svg,
 	.ryker_tm_services .right{width: 100%;margin: 0px;}
 	.ryker_tm_services .right ul li:nth-child(1){margin-top: 0px;}
 	.ryker_tm_portfolio .portfolio_list ul li{width: 50%;}
-	.ryker_tm_video .text{font-size: 25px;}
+	/* .ryker_tm_video .text{font-size: 25px;} */
 	#grouploop .item-wrap .item span{font-size: 120px;}
 	#grouploop{margin: 177px 0px 108px 0px;}
 	.ryker_tm_testimonials .avatar{position: relative;width: 60px;height: 60px;top: 0px;left: 0px;transform: translate(0);}
@@ -2552,8 +2552,8 @@ body.dark .ryker_tm_settings .cursor li .svg,
 	.ryker_tm_services .right ul li{width: 100%;padding-left: 0px;}
 	.ryker_tm_portfolio .portfolio_list ul{margin: 0px;}
 	.ryker_tm_portfolio .portfolio_list ul li{width: 100%;padding-left: 0px;}
-	.ryker_tm_video .rounded{width: 80px;height: 80px;}
-	.ryker_tm_video .text{font-size: 22px;}
+	/* .ryker_tm_video .rounded{width: 80px;height: 80px;}
+	.ryker_tm_video .text{font-size: 22px;} */
 	.ryker_tm_button a{padding: 10px 40px;font-size: 15px;}
 	#grouploop .item-wrap .item span{font-size: 80px;}
 	#grouploop{margin: 162px 0px 93px 0px;}
