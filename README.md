@@ -32,6 +32,12 @@
 
 O portfólio inclui 4 temas de cores diferentes que podem ser alterados
 
+
+<img src="https://i.imgur.com/dcGmiD8.png" alt="Desktop Screenshot" width="600"/>
+
+<img src="https://i.imgur.com/toVPgzQ.png" alt="Desktop Screenshot" width="600"/>
+
+
 ## 🌐 Deploy
 
 🔗 Deploy: [Veja o Projeto](https://personal-portfolio-template-tau.vercel.app/)
