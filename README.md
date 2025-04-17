@@ -34,6 +34,8 @@ O portfólio inclui 4 temas de cores diferentes que podem ser alterados
 
 ## 🌐 Deploy
 
+🔗 Deploy: [Veja o Projeto](https://personal-portfolio-template-tau.vercel.app/)
+
 ### Feito com ❤️ Romário Lima
 
 📧 Contato: devromariolima@gmail.com
