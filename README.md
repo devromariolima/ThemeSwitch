@@ -22,7 +22,7 @@
 
 - Frontend: HTML5, CSS3, JavaScript (ES6+)
 
-- Design: CSS puro (sem frameworks) com arquitetura BEM
+- Design: CSS puro (sem frameworks)
 
 - Interatividade: Vanilla JS para troca de temas e animações
 
