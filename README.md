@@ -2,7 +2,7 @@
 
 - Um portfólio moderno e personalizável para exibir meus projetos, habilidades e experiências.
 
-- Preview do Portfólio (Substitua por uma imagem real do seu projeto)
+- Preview do Portfólio
 
 ## ✨ Funcionalidades Principais
 
